@@ -27,7 +27,8 @@
 <br>
 <br>
 <div>
-  <h1>Click aqui para acessar o site hospedado no GitHub Pages: <a href="https://flex-turismos-k9cndbgai-ricardosantanaevangelista.vercel.app">Site</a></h1>
+  <h1>Click aqui para acessar o site hospedado na Vercel: <a href="  https://flex-turismos-2cfyn4q9s-ricardosantanaevangelista.vercel.app>Site</a></h1>
+  
 </div>
   
 
